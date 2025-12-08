@@ -23,10 +23,19 @@ Follow the below steps to setup connection to dataset.
 **For (Software Developers)**
 
 1. Clone this repository to your local using GitHub Desktop.
+
 2. Work on the branch of software_deployment / UI_development.
+
+3. If using other frontend framework, create new files and folders for the software development project.
+
+4. If using Gradio, can use existing .ipynb provided by lecturer to continue development, but MAKE SURE to follow: 
+   - Step 1 to 2 under (AI Developers) section for setup
+   - Step 3 to 5 for development in the file tracked by GitHub.
 
 **For (Project Manager)**
 
 1. Clone this repository to your local using GitHub Desktop.
+
 2. Work on the branch of project_management.
+
 3. You may create a new folder and put your files like Gantt Chart and others in it.
