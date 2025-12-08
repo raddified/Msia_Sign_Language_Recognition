@@ -23,4 +23,10 @@ Follow the below steps to setup connection to dataset.
 **For (Software Developers)**
 
 1. Clone this repository to your local using GitHub Desktop.
-2. 
+2. Work on the branch of software_deployment / UI_development.
+
+**For (Project Manager)**
+
+1. Clone this repository to your local using GitHub Desktop.
+2. Work on the branch of project_management.
+3. You may create a new folder and put your files like Gantt Chart and others in it.
